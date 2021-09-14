@@ -1,3 +1,3 @@
-# Data_Analyst_and_Visualization
+# Data_Analysis_and_Visualization
 
 My data analysis and visualization collections.
